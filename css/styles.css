@@ -11161,7 +11161,7 @@ body {
   min-height: 35rem;
   padding: 15rem 0;
   background:
-  url("../assets/img/alyssa-hurley-yekIZ4ltv1o-unsplash.jpg");
+  url("../assets/img/none.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11214,11 +11214,10 @@ body {
 
 /* BEGIN ABOUT SECTION STYLING */
 .about-section {
-  padding-top: 5rem;
+  padding: 5rem;
   margin: 5rem;
-  background: linear-gradient(to bottom, rgb(252, 250, 250) 0%, rgba(164, 160, 160, 0.497) 75%, #cfcdcde2),
-  url("../assets/img/sarah-shull--EzCkBsZnG0-unsplash.jpg");
-  /* background: url('../assets/img/alyssa-hurley-yekIZ4ltv1o-unsplash.jpg'); */
+  background: linear-gradient(to bottom, rgb(241 230 230) 0%, rgb(106 104 104 / 50%) 75%, #c6c4c4),
+  url(../assets/img/none.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11261,7 +11260,7 @@ body {
 /* FOOTER BACKGROUND PHOTO */
 .interests-section {
   padding: 2rem 0 5rem 0;
-  background: linear-gradient(to bottom, rgba(69, 66, 66, 0.011) 0%, rgba(0, 0, 0, 0.182) 75%, rgba(0, 0, 0, 0.415) 100%), url("../assets/img/alyssa-hurley-yekIZ4ltv1o-unsplash.jpg");
+  background: linear-gradient(to bottom, rgba(69, 66, 66, 0.011) 0%, rgba(0, 0, 0, 0.182) 75%, rgba(0, 0, 0, 0.415) 100%), url("../assets/img/none.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
