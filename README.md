@@ -26,8 +26,5 @@ Personal website allowing viewer to learn about me, view my portfolio of project
 * BootStrap
 
 
-## Acknowledgement
-Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality. 
-
 ## Support
 If you have suggestions or issues, please email me at [teja.ovs@gmail.com](www.google.com)
