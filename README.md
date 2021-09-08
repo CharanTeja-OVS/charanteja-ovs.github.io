@@ -1,5 +1,5 @@
 
-![MIT LICENSE](https://img.shields.io/github/license/charanteja-ovs/charanteja-ovs.github.io)\
+![MIT LICENSE](https://img.shields.io/github/license/charanteja-ovs/charanteja-ovs.github.io)
 
 # Personal Website
 
