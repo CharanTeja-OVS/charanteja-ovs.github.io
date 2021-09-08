@@ -1,7 +1,5 @@
 
-![MIT LICENSE](https://img.shields.io/github/license/yyerthao/charanteja-ovs.github.io)
-![REPO SIZE](https://img.shields.io/github/repo-size/yyerthao/yyerthao.github.io.svg?style=flat-square)
-![TOP_LANGUAGE](https://img.shields.io/github/languages/top/yyerthao/yyerthao.github.io.svg?style=flat-square)
+![MIT LICENSE](https://img.shields.io/github/license/charanteja-ovs/charanteja-ovs.github.io)\
 
 # Personal Website
 
